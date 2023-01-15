@@ -301,4 +301,6 @@ p {
 
 .search__panel-01 input, .search__panel-02 input, .search__panel-03 select {
   font-size: 0.9rem;
+  display: flex;
+  align-items: center;
 }

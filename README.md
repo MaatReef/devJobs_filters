@@ -20,3 +20,4 @@ En esta oportunidad simulando una base de datos dentro del propio proyecto con e
 
 <img width="800" src="src/assets/img/view1.png">
 <img width="800" src="src/assets/img/view2.png">
+<img width="800" src="src/assets/img/view3.png">
